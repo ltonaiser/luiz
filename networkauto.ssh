@@ -1,0 +1,7 @@
+#!/bin/bash
+dhclient -v enp0s3 #comando para ativar DHCP
+whoami > /etc/hostname
+
+
+
+ 
